@@ -1,4 +1,4 @@
-facebook = read.csv("C:/Users/jcmis/Downloads/School/Stats and Prob/Linear Regression Model/UCI_Data_Sets/UCI_Data_Sets/Facebook-Metrics/dataset_Facebook.csv")
+facebook = read.csv("path/to/dataset")
 head(facebook)
 
 #response will be reach.liked, or, Lifetime Post reach by
